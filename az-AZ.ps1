@@ -1,3 +1,3 @@
 Get-WinUserLanguageList
-$1 = New-WinUserLanguageList en-US
+$1 = New-WinUserLanguageList az-AZ
 Set-WinUserLanguageList $1
